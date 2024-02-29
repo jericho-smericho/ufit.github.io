@@ -33,7 +33,7 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./dist/ unit1/lab6 - Copy/lab5
+          source: ./dist/ https://github.com/jericho-smericho/ufit.github.io/tree/7cdbbd5218b18169e8fc80fae0974fd463617884/unit1/lab6%20-%20Copy/lab5
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
