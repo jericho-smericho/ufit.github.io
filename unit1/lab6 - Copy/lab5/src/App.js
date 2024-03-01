@@ -84,5 +84,8 @@ function App() {
     </div>
   );
 }
-
+ReactDOM.render(
+  <App/>, 
+  document.getElementById("container")
+  );
 export default App;
