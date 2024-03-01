@@ -84,11 +84,5 @@ function App() {
     </div>
   );
 }
-<<<<<<< HEAD:unit1/lab6 - Copy/lab5/src/App.js
-ReactDOM.render(
-  <App/>, 
-  document.getElementById("container")
-  );
-=======
->>>>>>> 9f802f2 (shes going somewhere):unit1/lab06/lab5/src/App.js
+
 export default App;
