@@ -4,6 +4,7 @@ import RepetitionEx from "./components/RepetitionEx";
 import DurationEx from "./components/DurationEx";
 import FailureEx from "./components/Failure";
 
+//nothing crazy
 const MENU_SCREEN = "menu";
 const EXERCISE_SCREEN = "exercise";
 const DURATION_EXERCISE = "duration";
